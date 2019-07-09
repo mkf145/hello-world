@@ -1,2 +1,4 @@
 # hello-world
-This is a practice 
+Hi Humans!
+Hubot here, I like Java and Javascript
+
